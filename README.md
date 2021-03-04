@@ -1,3 +1,3 @@
-# Contagem-Regressiva
+# Contagem Regressiva
 
-Exibição de uma contagem regressiva.
+Exibição de uma Contagem  Regressiva de 05 segundos.
